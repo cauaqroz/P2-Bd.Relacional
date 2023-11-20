@@ -1,6 +1,13 @@
 # Estudo Prova - P2
-nesse documento contem o gabarito dos teste e a resolução da atividade 15. 
+nesse documento contem o gabarito dos teste e a resolução das ultimas atividades. 
+<br>
+<br>
+## Exercicios 14 - 15
 
+
+<br>
+<br>
+<br>
 ## Gabarito Teste
 
 <h3>
