@@ -3,7 +3,7 @@ nesse documento contem o gabarito dos teste e a resolução das ultimas atividad
 <br>
 <br>
 ## Exercicios 14 - 15
-
+[Acesse Aqui os Exercicios](https://github.com/cauaqroz/P2-Bd.Relacional/tree/main/Atividades)
 
 <br>
 <br>
